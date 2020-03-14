@@ -1,6 +1,9 @@
 
+
 *Git clone repo
+
 *npm install
+
 *npm start 
 
 Website link
