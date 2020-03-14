@@ -1,10 +1,10 @@
 
 
--Git clone repo
+- Git clone repo
 
--npm install
+- npm install
 
--npm start 
+- npm start 
 
 Website link
 https://smart-brain-03.herokuapp.com/
